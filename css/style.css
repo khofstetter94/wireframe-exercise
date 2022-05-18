@@ -68,10 +68,13 @@ p {
 button {
   margin-top: 15px;
   transition: 350ms;
+  background-color: black;
+  color: white;
 }
 
 button:hover {
-  background-color: green;
+  background-color: white;
+  color: black;
 }
 
 footer {
